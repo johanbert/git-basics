@@ -46,33 +46,6 @@ Haremos los siguientes pasos:
 
 De esta forma hemos actualizado nuestro repositorio de la nube.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Crear nuevo repositorio en la cuenta de GitHub
 
 Nos ubicamos en el archivo o carpeta que deseamos subir a GitHub y damos click derecho
@@ -143,3 +116,4 @@ git pull Se encarga de actualizar el repositorio a la última versión existente
 	ej:
 		git pull origin master
 
+SOY UN TEXTO NUEVO
