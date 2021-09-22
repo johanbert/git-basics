@@ -68,5 +68,3 @@ En este caso que no tengamos el proyecto en el cual estamos trabajando, descarga
     Se encarga de actualizar el repositorio a la última versión existente en la rama principal (rama main)
 	Ejemplo:
 		git pull origin master
-
-SOY UN TEXTO NUEVO version 2
