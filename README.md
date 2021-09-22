@@ -116,4 +116,4 @@ git pull Se encarga de actualizar el repositorio a la última versión existente
 	ej:
 		git pull origin master
 
-SOY UN TEXTO NUEVO
+SOY UN TEXTO NUEVO version 2
