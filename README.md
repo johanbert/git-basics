@@ -64,7 +64,16 @@ En este caso que no tengamos el proyecto en el cual estamos trabajando, descarga
     Ejemplo: 
 	    git clone https://github.com/usuarioPepe/repositorioPrueba
 
-#### git pull
+#### git pull <origin> <branch>
     Se encarga de actualizar el repositorio a la última versión existente en la rama principal (rama main)
 	Ejemplo:
-		git pull origin master
+		git pull origin main
+
+#### git branch
+	Nos muestra las ramas que existen en el repositorio
+
+#### git checkout -b <nombrederama>
+	Con este comando podemos crear una rama y cambiarnos a ella
+
+### git merge <branch-to-merge>
+	Con este comando , uno los cambios de la rama <branch-to-merge>
