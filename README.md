@@ -7,7 +7,7 @@
     Debemos indicarle al sistema qué usuario se conectará con los repositorios de la nube de GitHub
 
 #### git config --global user.name "tu Nombre de usuario de Git"
-#### git config -- global user.email "tu correo"
+#### git config --global user.email "tu correo"
 
 #### git init
     Es para inicializar un repositorio desde de la consola. Esto indicará que los archivos que estén en la carpeta se podrán subir dinámicamente a la nube.
