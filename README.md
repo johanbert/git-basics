@@ -80,4 +80,4 @@ En este caso que no tengamos el proyecto en el cual estamos trabajando, descarga
 
 ### git fork
     Haciendolo a través de la interfaz de GITHUB, podemos obtener una copia directa a nuestro git de ese repositorio al cual hicimos FORK. 
-    Esto generó una rama atada al proyecto principal del cual se hizo el fork.
+    Esto generó una rama atada al proyecto principal del cual se hizo el fork. 
