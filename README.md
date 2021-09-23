@@ -77,3 +77,7 @@ En este caso que no tengamos el proyecto en el cual estamos trabajando, descarga
 
 ### git merge <branch-to-merge>
 	Con este comando , uno los cambios de la rama <branch-to-merge>
+
+### git fork
+    Haciendolo a través de la interfaz de GITHUB, podemos obtener una copia directa a nuestro git de ese repositorio al cual hicimos FORK. 
+    Esto generó una rama atada al proyecto principal del cual se hizo el fork.
