@@ -81,3 +81,9 @@ En este caso que no tengamos el proyecto en el cual estamos trabajando, descarga
 ### git fork
     Haciendolo a través de la interfaz de GITHUB, podemos obtener una copia directa a nuestro git de ese repositorio al cual hicimos FORK. 
     Esto generó una rama atada al proyecto principal del cual se hizo el fork. 
+
+### git tag
+    Escribiendo este comando validamos si existen tags en el proyecto
+
+### git tag -a v1.0 -m "Version 1 del proyecto de prueba de GIT"
+    De esta forma podemos definir una version de release segun el tag que estamos creando.
